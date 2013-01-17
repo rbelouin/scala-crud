@@ -1,4 +1,4 @@
-package com.rbelouin
+package com.rbelouin.scalacrud
 
 object Main {
   case class Person(firstName: String, lastName: String, age: Int)

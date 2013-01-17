@@ -1,4 +1,4 @@
-package com.rbelouin
+package com.rbelouin.scalacrud
 
 import net.liftweb.json._
 
